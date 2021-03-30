@@ -1,0 +1,2 @@
+rootProject.name='Exercise_javacore'
+include ':app'
